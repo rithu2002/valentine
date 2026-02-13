@@ -10,14 +10,14 @@ import img7 from "./assets/7.jpg";
 import img8 from "./assets/8.jpg";
 import img9 from "./assets/yath26.jpg";
 import img10 from "./assets/yath41.jpg";
-import img11 from "./assets/9.jpg";
-import img12 from "./assets/10.jpg";
-import img13 from "./assets/11.jpg";
-import img14 from "./assets/12.jpg";
-import img15 from "./assets/13.jpg";
-import img16 from "./assets/14.jpg";
-import img17 from "./assets/15.jpg";
-import img18 from "./assets/16.jpg";
+import img11 from "./assets/9.png";
+import img12 from "./assets/10.png";
+import img13 from "./assets/11.png";
+import img14 from "./assets/12.jpeg";
+import img15 from "./assets/13.jpeg";
+import img16 from "./assets/14.jpeg";
+import img17 from "./assets/15.jpeg";
+import img18 from "./assets/16.jpeg";
 const images = [
   img1,
   img2,
