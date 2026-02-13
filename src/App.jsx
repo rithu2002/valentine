@@ -1,17 +1,43 @@
 import { useEffect, useRef, useState } from "react";
 import "./App.css";
 import music from "./assets/Minnalvala.mp3";
-
+import img1 from "./assets/1.jpg";
+import img2 from "./assets/2.jpg";
+import img3 from "./assets/3.jpg";
+import img5 from "./assets/5.jpg";
+import img6 from "./assets/yath88.HEIC";
+import img7 from "./assets/7.jpg";
+import img8 from "./assets/8.jpg";
+import img9 from "./assets/yath26.jpg";
+import img10 from "./assets/yath41.jpg";
+import img11 from "./assets/9.jpg";
+import img12 from "./assets/10.jpg";
+import img13 from "./assets/11.jpg";
+import img14 from "./assets/12.jpg";
+import img15 from "./assets/13.jpg";
+import img16 from "./assets/14.jpg";
+import img17 from "./assets/15.jpg";
+import img18 from "./assets/16.jpg";
 const images = [
-  "/src/assets/1.jpg",
-  "/src/assets/2.jpg",
-  "/src/assets/3.jpg",
-  "/src/assets/5.jpg",
-  "/src/assets/yath88.HEIC",
-  "/src/assets/7.jpg",
-  "/src/assets/8.jpg",
-  "/src/assets/9.png",
-  "/src/assets/IMG_0332.HEIC"
+  img1,
+  img2,
+  img3,
+  img17,
+  img5,
+  img14,
+  img6,
+  img7,
+  img8,
+  img15,
+  img9,
+  img10,
+  img16,
+  img11,
+  img12,
+  img13,
+  img18
+
+
 ];
 
 // 💕 First 9 Questions
